@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>risiko con carro, trasparente.jpg</file>
+        <file>risiko cosmo.jpg</file>
+        <file>risiko viola.jpg</file>
+        <file>risikozzo1.jpg</file>
+        <file>risiko cod.jpg</file>
+        <file>blank.png</file>
+        <file>gioc_1.png</file>
+        <file>gioc_2.png</file>
+        <file>gioc_3.png</file>
+        <file>gioc_4.png</file>
+    </qresource>
+</RCC>
